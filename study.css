@@ -1,0 +1,12 @@
+ p {
+        margin-bottom: 30px; /* adds space under each paragraph */
+        color:purple;
+        font-size: 15px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+            line-height: 1.5;
+        }
+        
+    
+    body{
+        background-color: #FFFAFA;
+    }
